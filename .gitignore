@@ -1,4 +1,6 @@
 # Byte-compiled / optimized / DLL files
+*.gz
+*.json
 *.txt
 *.csv
 __pycache__/
